@@ -1,0 +1,108 @@
+airport_id,name,city,country,iata_faa,iaco,latitude,longitude,altitude,zone,dst
+3886,Naha,Naha,Indonesia,NAH,WAMH,3.683214,125.528019,16,8,U
+3240,Hasanuddin,Ujung Pandang,Indonesia,UPG,WAAA,-5.061631,119.554042,47,8,U
+3241,Frans Kaisiepo,Biak,Indonesia,BIK,WABB,-1.190017,136.107997,46,9,U
+3242,Nabire,Nabire,Indonesia,NBX,WABI,-3.368183,135.496406,20,9,U
+3243,Moses Kilangin,Timika,Indonesia,TIM,WABP,-4.528275,136.887375,103,9,U
+3244,Sentani,Jayapura,Indonesia,DJJ,WAJJ,-2.576953,140.516372,289,9,U
+3245,Wamena,Wamena,Indonesia,WMX,WAJW,-4.102511,138.957372,5085,9,U
+3246,Mopah,Merauke,Indonesia,MKQ,WAKK,-8.520294,140.418453,10,9,U
+3247,Jalaluddin,Gorontalo,Indonesia,GTO,WAMG,0.637119,122.849858,105,8,U
+3249,Mutiara,Palu,Indonesia,PLW,WAML,-0.918542,119.909642,284,8,U
+3250,Sam Ratulangi,Manado,Indonesia,MDC,WAMM,1.549447,124.925878,264,8,U
+3251,Kasiguncu,Poso,Indonesia,PSJ,WAMP,-1.416753,120.657669,174,8,U
+3252,Pitu,Morotai Island,Indonesia,OTI,WAMR,2.045992,128.324708,49,9,U
+3253,Sultan Babullah,Ternate,Indonesia,TTE,WAMT,0.831414,127.381486,49,9,U
+3254,Bubung,Luwuk,Indonesia,LUW,WAMW,-1.038919,122.771906,56,8,U
+3256,Pattimura,Ambon,Indonesia,AMQ,WAPP,-3.710264,128.089136,33,9,U
+3257,Fak Fak,Fak Fak,Indonesia,FKQ,WASF,-2.920192,132.267031,462,9,U
+3258,Kaimana,Kaimana,Indonesia,KNG,WASK,-3.644517,133.695553,19,9,U
+3259,Babo,Babo,Indonesia,BXB,WASO,-2.532242,133.438894,10,9,U
+3260,Rendani,Manokwari,Indonesia,MKW,WASR,-0.891833,134.049183,23,9,U
+3261,Jefman,Sorong,Indonesia,SOQ,WASS,-0.926358,131.121194,10,9,U
+3273,Sultan Syarif Kasim Ii,Pekanbaru,Indonesia,PKU,WIBB,0.460786,101.444539,102,7,U
+3274,Pinang Kampai,Dumai,Indonesia,DUM,WIBD,1.609194,101.433558,55,7,U
+3275,Soekarno Hatta Intl,Jakarta,Indonesia,CGK,WIII,-6.125567,106.655897,34,7,U
+3276,Binaka,Gunung Sitoli,Indonesia,GNS,WIMB,1.166381,97.704681,20,7,U
+3277,Aek Godang,Padang Sidempuan,Indonesia,,WIME,1.400103,99.430453,922,7,U
+3278,Tabing,Padang,Indonesia,PDG,WIMG,-0.874989,100.351881,9,7,U
+3279,Polonia,Medan,Indonesia,MES,WIMM,3.558056,98.671722,114,7,U
+3280,Dr Ferdinand Lumban Tobing,Sibolga,Indonesia,,WIMS,1.555944,98.888908,43,7,U
+3281,Nanga Pinoh I,Nangapinoh,Indonesia,,WIOG,-0.348869,111.747606,123,7,U
+3282,Rahadi Usman,Ketapang,Indonesia,KTG,WIOK,-1.816639,109.963483,46,7,U
+3284,Supadio,Pontianak,Indonesia,PNK,WIOO,-0.150711,109.403892,10,7,U
+3287,Sultan Thaha,Jambi,Indonesia,DJB,WIPA,-1.638017,103.644378,82,7,U
+3288,Fatmawati Soekarno,Bengkulu,Indonesia,BKS,WIPL,-3.8637,102.339036,50,7,U
+3289,Sultan Mahmud Badaruddin Ii,Palembang,Indonesia,PLM,WIPP,-2.89825,104.699903,49,7,U
+3291,Japura,Rengat,Indonesia,RGT,WIPR,-0.352808,102.334917,62,7,U
+3292,Lhok Sukon,Lhok Sukon,Indonesia,,WITL,5.069506,97.259192,28,7,U
+3294,Sultan Iskandarmuda,Banda Aceh,Indonesia,BTJ,WITT,5.523522,95.420372,65,7,U
+3887,Andi Jemma,Masamba,Indonesia,,WAWM,-2.558044,120.324383,164,8,U
+3888,Soroako,Soroako,Indonesia,,WAWS,-2.531203,121.357639,1388,8,U
+3889,Pongtiku,Makale,Indonesia,,WAWT,-3.044736,119.821536,2884,8,U
+3890,Wolter Monginsidi,Kendari,Indonesia,KDI,WAWW,-4.081608,122.418231,538,8,U
+3891,Maimun Saleh,Sabang,Indonesia,SBG,WITB,5.874131,95.339672,393,7,U
+3892,Cibeureum,Tasikmalaya,Indonesia,,WICM,-7.346603,108.246092,1148,7,U
+3893,Iswahyudi,Madiun,Indonesia,,WARI,-7.615767,111.434117,361,7,U
+3894,Abdul Rachman Saleh,Malang,Indonesia,MLG,WARA,-7.926556,112.714514,1726,7,U
+3895,Budiarto,Tangerang,Indonesia,,WICB,-6.293169,106.5699,151,7,U
+3896,Husein Sastranegara,Bandung,Indonesia,BDO,WICC,-6.900625,107.576294,2436,7,U
+3897,Penggung,Cirebon,Indonesia,CBN,WICD,-6.756144,108.539672,89,7,U
+3898,Adi Sutjipto,Yogyakarta,Indonesia,JOG,WARJ,-7.788181,110.431758,350,7,U
+3899,Tunggul Wulung,Cilacap,Indonesia,CXP,WIHL,-7.645056,109.033911,69,7,U
+3900,Pondok Cabe,Jakarta,Indonesia,PCB,WIHP,-6.336964,106.764561,200,7,U
+3901,Achmad Yani,Semarang,Indonesia,SRG,WARS,-6.971447,110.374122,13,7,U
+3903,Hang Nadim,Batam,Indonesia,BTH,WIDD,1.121028,104.118753,126,7,U
+3904,H As Hanandjoeddin,Tanjung Pandan,Indonesia,TJQ,WIOD,-2.745722,107.754917,164,7,U
+3905,Depati Amir,Pangkal Pinang,Indonesia,PGK,WIPK,-2.1622,106.139064,109,7,U
+3906,Kijang,Tanjung Pinang,Indonesia,TNJ,WIDN,0.922683,104.532311,52,7,U
+3907,Dabo,Singkep,Indonesia,SIQ,WIDS,-0.479189,104.579283,95,7,U
+3908,Syamsudin Noor,Banjarmasin,Indonesia,BDJ,WAOO,-3.442356,114.762553,66,8,U
+3909,Batu Licin,Batu Licin,Indonesia,,WAOC,-3.412408,115.995136,3,8,U
+3910,Iskandar,Pangkalan Bun,Indonesia,PKN,WAOI,-2.705197,111.673208,75,7,U
+3911,Tjilik Riwut,Palangkaraya,Indonesia,PKY,WAOP,-2.225128,113.942661,82,7,U
+3913,Wai Oti,Maumere,Indonesia,MOF,WATC,-8.640647,122.236889,115,8,U
+3914,H Hasan Aroeboesman,Ende,Indonesia,ENE,WATE,-8.849294,121.660644,49,8,U
+3915,Satar Tacik,Ruteng,Indonesia,RTG,WATG,-8.597011,120.477061,3510,8,U
+3916,El Tari,Kupang,Indonesia,KOE,WATT,-10.171583,123.671136,335,8,U
+3917,Mutiara Ii,Labuhan Bajo,Indonesia,LBJ,WATO,-8.486656,119.88905,66,8,U
+3919,Sepinggan,Balikpapan,Indonesia,BPN,WALL,-1.268272,116.894478,12,8,U
+3920,Juwata,Taraken,Indonesia,TRK,WALR,3.326694,117.565569,20,8,U
+3921,Temindung,Samarinda,Indonesia,SRI,WALS,-0.484531,117.157111,33,8,U
+3922,Tanjung Santan,Tanjung Santan,Indonesia,,WALT,-0.093215,117.439292,121,8,U
+3923,Selaparang,Mataram,Indonesia,AMI,WADA,-8.560708,116.094656,52,8,U
+3924,Muhammad Salahuddin,Bima,Indonesia,BMU,WADB,-8.539647,118.687322,3,8,U
+3927,Mau Hau,Waingapu,Indonesia,WGP,WADW,-9.669217,120.302006,33,8,U
+3928,Juanda,Surabaya,Indonesia,SUB,WARR,-7.379831,112.786858,9,7,U
+3929,Adi Sumarmo Wiryokusumo,Solo City,Indonesia,SOC,WARQ,-7.516089,110.756892,421,7,U
+3940,Bali Ngurah Rai,Denpasar,Indonesia,DPS,WADD,-8.748169,115.167172,14,8,U
+6203,Sumbawa Besar Airport,Sumbawa Island,Indonesia,SWQ,WADS,-8.489039,117.412119,16,8,U
+6204,Tambolaka Airport,Waikabubak-Sumba Island,Indonesia,TMC,WADT,-9.409717,119.244494,161,8,U
+6205,Bokondini Airport,Bokondini-Papua Island,Indonesia,BUI,WAJB,-3.58365,138.533,9104,9,U
+6206,Senggeh Airport,Senggeh-Papua Island,Indonesia,SEH,WAJS,-3.43333,140.817,914,9,U
+6207,Tanjung Harapan Airport,Tanjung Selor-Borneo Island,Indonesia,TJS,WALG,2.83641,117.374,10,8,U
+6208,Datadawai Airport,Datadawai-Borneo Island,Indonesia,DTD,WALJ,0.717,116.483,229,8,U
+6209,Barau(Kalimaru) Airport,Tanjung Redep-Borneo Island,Indonesia,BEJ,WALK,2.155497,117.432256,59,8,U
+6210,Warukin Airport,Tanjung-Borneo Island,Indonesia,TJG,WAON,-2.21656,115.436,197,8,U
+6211,Sampit(Hasan) Airport,Sampit-Borneo Island,Indonesia,SMQ,WAOS,-2.499194,112.974992,50,7,U
+6212,Dumatubun Airport,Langgur-Kei Islands,Indonesia,LUV,WAPL,-5.661619,132.731431,10,9,U
+6213,Mali Airport,Alor Island,Indonesia,ARD,WATM,-8.13234,124.597,10,8,U
+6223,Radin Inten II (Branti) Airport,Bandar Lampung-Sumatra Island,Indonesia,TKG,WICT,-5.242339,105.178939,282,7,U
+6224,Halim Perdanakusuma International Airport,Jakarta,Indonesia,HLP,WIHH,-6.26661,106.891,84,7,U
+6225,Ranai Airport,Ranai-Natuna Besar Island,Indonesia,NTX,WION,3.908714,108.387897,7,7,U
+6226,Pangsuma Airport,Putussibau-Borneo Island,Indonesia,PSU,WIOP,0.835578,112.937144,297,7,U
+6227,Susilo Airport,Sintang-Borneo Island,Indonesia,SQG,WIOS,0.063619,111.473428,98,7,U
+6228,Pendopo Airport,Talang Gudang-Sumatra Island,Indonesia,PDO,WIPQ,-3.286069,103.8796,184,7,U
+6229,Malikus Saleh Airport,Lhok Seumawe-Sumatra Island,Indonesia,LSW,WITM,5.226681,96.950342,90,7,U
+6231,Stagen Airport,Laut Island,Indonesia,KBU,WRBK,-3.29472,116.165,4,8,U
+6232,Long Bawan Airport,Long Bawan-Borneo Island,Indonesia,LBW,WRLB,3.867,115.683,3590,8,U
+6233,Nunukan Airport,Nunukan-Nunukan Island,Indonesia,NNX,WRLF,4.13653,117.667,52,8,U
+6234,Long Apung Airport,Long Apung-Borneo Island,Indonesia,LPU,WRLP,0.583,115.6,627,8,U
+6455,Pagerungan,Pagerungan,Indonesia,,WA19,-6.956608,115.931239,20,9,U
+7536,Matak Airport,Anambas Islands,Indonesia,MWK,WIOM,3.348119,106.25805,10,7,U
+7543,Tana Toraja Airport,Toraja,Indonesia,TTR,,-3.416667,119.916664,0,8,N
+7864,Minangkabau Airport,Padang-Sumatra Island,Indonesia,,WIPT,-0.786917,100.281,18,7,U
+8078,Bandanaira Airport,Bandanaira-Naira Island,Indonesia,NDA,,-4.53333,129.9,37,9,N
+8382,Pogapa Airstrip,Pogapa,Indonesia,,,-3.7518,136.842481,6060,9,N
+8383,Pogapa Airstrip,Pogapa,Indonesia,,,-3.7518,136.842481,6060,9,N
+8401,Lombok International Airport,Praya,Indonesia,LOP,WADL,-8.7573222,116.276675,52,8,N
